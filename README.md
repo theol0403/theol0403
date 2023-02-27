@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Theo 👋
+
+I’m a Mathematics and Engineering student with an option in Systems and Robotics @ Queen's University. 
+
+I love programming, robotics, design, innovating, and leading others.
 
 <!--
 **theol0403/theol0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
