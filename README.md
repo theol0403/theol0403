@@ -1,6 +1,6 @@
 ### Hey, I'm Theo! 👋
 
-I'm currently a 3rd year student at [Queen's University](https://www.queensu.ca/) in Kingston, Ontario, Canada.
+I'm currently a 2nd year student at [Queen's University](https://www.queensu.ca/) in Kingston, Ontario, Canada.
 
 Majoring in **Mathematics and Engineering** with an option in Systems and Robotics.
 
