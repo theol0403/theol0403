@@ -1,6 +1,6 @@
-### Hey, I'm Theo! 👋
+### Hey, I'm Theo 👋
 
-I'm currently a 3rd year student at [Queen's University](https://www.queensu.ca/) in Kingston, Ontario, Canada, majoring in **Mathematics and Engineering** with an option in Systems and Robotics.
+I'm currently a 5th year student at [Queen's University](https://www.queensu.ca/) in Kingston, Ontario, Canada, majoring in **Mathematics and Engineering** with an option in Systems and Robotics.
 
 - Email me here: theo.lemay@queensu.ca
 
